@@ -1,0 +1,90 @@
+[1,  2000] loss: 2.083
+[1,  4000] loss: 1.712
+[1,  6000] loss: 1.545
+[1,  8000] loss: 1.426
+[1, 10000] loss: 1.379
+Final Summary:   loss: 1.629
+Train Accuracy of the network: 52 %
+Train Accuracy of plane : 57 %
+Train Accuracy of   car : 68 %
+Train Accuracy of  bird : 29 %
+Train Accuracy of   cat : 12 %
+Train Accuracy of  deer : 51 %
+Train Accuracy of   dog : 35 %
+Train Accuracy of  frog : 78 %
+Train Accuracy of horse : 62 %
+Train Accuracy of  ship : 63 %
+Train Accuracy of truck : 67 %
+Test Accuracy of the network: 52 %
+Test Accuracy of plane : 59 %
+Test Accuracy of   car : 69 %
+Test Accuracy of  bird : 26 %
+Test Accuracy of   cat : 11 %
+Test Accuracy of  deer : 50 %
+Test Accuracy of   dog : 35 %
+Test Accuracy of  frog : 80 %
+Test Accuracy of horse : 64 %
+Test Accuracy of  ship : 60 %
+Test Accuracy of truck : 65 %
+[2,  2000] loss: 1.273
+[2,  4000] loss: 1.234
+[2,  6000] loss: 1.178
+[2,  8000] loss: 1.140
+[2, 10000] loss: 1.102
+Final Summary:   loss: 1.186
+Train Accuracy of the network: 63 %
+Train Accuracy of plane : 67 %
+Train Accuracy of   car : 77 %
+Train Accuracy of  bird : 55 %
+Train Accuracy of   cat : 34 %
+Train Accuracy of  deer : 57 %
+Train Accuracy of   dog : 48 %
+Train Accuracy of  frog : 68 %
+Train Accuracy of horse : 66 %
+Train Accuracy of  ship : 83 %
+Train Accuracy of truck : 78 %
+Test Accuracy of the network: 62 %
+Test Accuracy of plane : 67 %
+Test Accuracy of   car : 76 %
+Test Accuracy of  bird : 51 %
+Test Accuracy of   cat : 32 %
+Test Accuracy of  deer : 55 %
+Test Accuracy of   dog : 47 %
+Test Accuracy of  frog : 68 %
+Test Accuracy of horse : 64 %
+Test Accuracy of  ship : 80 %
+Test Accuracy of truck : 76 %
+[3,  2000] loss: 1.036
+[3,  4000] loss: 1.020
+[3,  6000] loss: 1.013
+[3,  8000] loss: 0.975
+[3, 10000] loss: 0.971
+Final Summary:   loss: 1.003
+Train Accuracy of the network: 67 %
+Train Accuracy of plane : 60 %
+Train Accuracy of   car : 69 %
+Train Accuracy of  bird : 66 %
+Train Accuracy of   cat : 40 %
+Train Accuracy of  deer : 74 %
+Train Accuracy of   dog : 55 %
+Train Accuracy of  frog : 68 %
+Train Accuracy of horse : 67 %
+Train Accuracy of  ship : 90 %
+Train Accuracy of truck : 79 %
+Test Accuracy of the network: 64 %
+Test Accuracy of plane : 57 %
+Test Accuracy of   car : 66 %
+Test Accuracy of  bird : 61 %
+Test Accuracy of   cat : 37 %
+Test Accuracy of  deer : 72 %
+Test Accuracy of   dog : 54 %
+Test Accuracy of  frog : 70 %
+Test Accuracy of horse : 62 %
+Test Accuracy of  ship : 88 %
+Test Accuracy of truck : 76 %
+[4,  2000] loss: 0.890
+[4,  4000] loss: 0.916
+[4,  6000] loss: 0.909
+[4,  8000] loss: 0.882
+[4, 10000] loss: 0.877
+Final Summary:   loss: 0.895

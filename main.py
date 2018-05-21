@@ -16,12 +16,19 @@ def train(net, dataloader, optimizer, criterion, epoch):
         # get the inputs
         inputs, labels = data
 
+        labelGrid = torch.zeros([4, 10], dtype=torch.float32)
+        for index, value in enumerate(labels):
+            labelGrid[index][value] = 1.0
+        # inputs = data[0].float()
+        # labels = data[1].float()
+        # print (labels)
+
         # zero the parameter gradients
         optimizer.zero_grad()
 
         # forward + backward + optimize
         outputs = net(inputs)
-        loss = criterion(outputs, labels)
+        loss = criterion(outputs, labelGrid)
         loss.backward()
         optimizer.step()
 
